@@ -1,6 +1,6 @@
-*.xml
-*.html
+# IDE
+.idea/
 *.iml
-*.class
-*.kotlin_module
 
+# Java
+*.class
